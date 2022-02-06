@@ -1,7 +1,5 @@
 # users_node_backend
 A basic express server built with node.js and mongo db.
-# todo_node_backend
-A basic TODO API created in node js and mongo db
 
 # Installation of users_node_backend.
 1. Clone users_node_backend.
